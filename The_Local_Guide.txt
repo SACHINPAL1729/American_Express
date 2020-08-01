@@ -1,8 +1,8 @@
 ● Team Name: Newbies
-● Team members details: 1.Member 1 [contribution]
- 2. Member 2 [contribution]
- 3. Member 3 [contribution]
- 4. Member 4 [contribution] …
+● Team members details: 1.Member 1 [Adesh_Kumar]
+ 2. Member 2 [Siddhart Balwant]
+ 3. Member 3 [Shubham Singh]
+ 4. Member 4 [Code Sage]
 ● Selected theme: Smart Cities
 
 ● Problem Statement: So the idea is to help out peoples residing in cities.
